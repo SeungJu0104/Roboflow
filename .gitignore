@@ -6,3 +6,4 @@ images/
 .venv/Scripts/
 .venv/share/
 .venv/pyvenv.cfg
+datasets/
