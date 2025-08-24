@@ -7,3 +7,5 @@ images/
 .venv/share/
 .venv/pyvenv.cfg
 datasets/
+runs/
+.venv/yolov8n.pt
